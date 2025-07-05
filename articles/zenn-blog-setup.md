@@ -2,7 +2,7 @@
 title: "Claude Codeにブログを書くための環境を整えてもらった話"
 emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: ["zenn", "blog", "cli", "claude", "gemini"]
+topics: ["zenn", "blog", "cli", "claudecode", "geminicli"]
 published: true
 published_at: 2025-07-06 09:00
 ---
