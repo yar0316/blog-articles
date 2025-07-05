@@ -212,6 +212,10 @@ AIツールとの協働をするために最低限の記事管理体制は作れ
 - [ChatGPT の活用が変えるエンジニアの働き方](https://zenn.dev/tksfjt1024/articles/5e88385bfb69fd) - 役割分担の考え方を参考
 - [Claude Code の Hooks 機能について](https://zenn.dev/kazuph/articles/483d6cf5f3798c) - 制約の技術的強制化について
 
+### リポジトリ
+
+- [blog-articles](https://github.com/yar0316/blog-articles) - この記事で構築した環境の実際のリポジトリ
+
 ---
 
 *本記事は Claude Code を使用して作成されました。*
