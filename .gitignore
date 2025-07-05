@@ -1,0 +1,39 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# Personal notes (not for public)
+private/
+personal-notes/
+*.private.md
+
+# Image editing files
+*.psd
+*.sketch
+*.fig
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
+
+# Blog setup plan (remove after setup)
+blog_setup_plan.md
