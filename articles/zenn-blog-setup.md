@@ -4,6 +4,7 @@ emoji: "📝"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["zenn", "blog", "cli", "claude", "gemini"]
 published: true
+published_at: 2025-07-06 09:00
 ---
 
 # Claude Codeにブログを書くための環境を整えてもらった話
