@@ -37,3 +37,7 @@ personal-notes/
 
 # Blog setup plan (remove after setup)
 blog_setup_plan.md
+
+# Claude Code temporary files
+.claude/
+claude-instructions.md
