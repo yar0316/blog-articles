@@ -19,6 +19,14 @@
 - 重要度は⚠️マークで示す
 - この方針自体を変更する場合は、十分な検討を行う
 
+## 参照ファイルの特定方法
+
+**作業開始時の確認手順**:
+1. 作業内容にキーワード「レビュー」「校正」「チェック」が含まれる場合 → [review-process.md](./review-process.md) と [publishing-checklist.md](./publishing-checklist.md) を確認
+2. すべての作業で必須 → [ai-work-principles.md](./ai-work-principles.md) ⚠️ **最重要**
+3. 執筆・記事作成の場合 → [writing-workflow.md](./writing-workflow.md) と [template-usage.md](./template-usage.md) を確認
+4. ファイル作成・命名の場合 → [naming-conventions.md](./naming-conventions.md) を確認
+
 ## 基本方針
 
 **AI作業原則**: [ai-work-principles.md](./ai-work-principles.md) ⚠️ **最重要**

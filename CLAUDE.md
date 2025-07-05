@@ -1,6 +1,6 @@
 # Claude Code Config
 
-See `docs/general.md` for comprehensive guide.
+**重要**: 作業開始前に必ず `docs/general.md` を確認すること。
 
 ## Claude Code Specific Instructions
 
