@@ -41,3 +41,6 @@ blog_setup_plan.md
 # Claude Code temporary files
 .claude/
 claude-instructions.md
+
+# Node.js dependencies
+node_modules/
