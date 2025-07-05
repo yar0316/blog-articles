@@ -1,0 +1,26 @@
+{
+  "name": "blog-articles",
+  "version": "1.0.0",
+  "description": "技術ブログ記事を管理するためのリポジトリです。QiitaやZennでの公開を前提とした記事を執筆・管理します。",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yar0316/blog-articles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yar0316/blog-articles/issues"
+  },
+  "homepage": "https://github.com/yar0316/blog-articles#readme",
+  "dependencies": {
+    "zenn-cli": "^0.2.1"
+  }
+}
