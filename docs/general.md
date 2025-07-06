@@ -44,6 +44,7 @@
 
 - **執筆ワークフロー**: [writing-workflow.md](./writing-workflow.md)
 - **テンプレート活用**: [template-usage.md](./template-usage.md)
+- **文体・表現ガイド**: [writing-style.md](./writing-style.md)
 
 ### 品質管理
 
