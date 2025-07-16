@@ -42,6 +42,10 @@ blog_setup_plan.md
 .claude/
 claude-instructions.md
 
+# Gemini CLI temporary files
+.gemini/
+gemini-instructions.md
+
 # Node.js dependencies
 node_modules/
 
