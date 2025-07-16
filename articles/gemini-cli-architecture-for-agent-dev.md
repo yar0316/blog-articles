@@ -3,7 +3,8 @@ title: "Gemini CLIはどのようにMCPツールを利用しているか？実�
 emoji: "🛠️"
 type: "tech"
 topics: ["Gemini", "CLI", "LLM", "MCP", "Agent"]
-published: false
+published: true
+published_at: 2025-07-17 11:00
 ---
 
 ## はじめに
