@@ -44,3 +44,6 @@ claude-instructions.md
 
 # Node.js dependencies
 node_modules/
+
+# temp files
+temp/
